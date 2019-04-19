@@ -9,13 +9,4 @@ comments: false
 ---
 
 ### Graduate Students
-* Zahra Sayedi
-* Majid Zarharan
-* Mahdi Lotfi
-
-### Undergraduate Students
-* Maryam Sadat Hashemi
-* Attieh Sarvi
-* Mahya Khazaei
-* Samin Fatehi
-* Soroush Gholami
+* TBD

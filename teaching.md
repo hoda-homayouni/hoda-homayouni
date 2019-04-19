@@ -11,22 +11,14 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|2019|Spring| **Algorithm Design**         |
+|2019|Spring| **BIM Studio** |
 |----|------|--------------------------------|
-|2019|Spring| **Advanced Programming - C#** |
-|----|------|--------------------------------|
-|2019|Spring| **Natural Language Processing (Undergraduate)** |
+|2019|Spring| **Sustainable Design** |
 
 
 
 |           | **Past**                       |
 |----|------|--------------------------------|
-|2018|Fall  | **Data Structures**            |
-|----|------|--------------------------------|
-|2018|Fall  | **Advanced Programming - C#** |
+|2018|Spring| **BIM**             |
 |----|------|--------------------------------------------|
-|2018|Fall  | **Natural Language Processing (Graduate)** |
-|----|------|--------------------------------------------|
-|2018|Spring| **Advanced Programming - C#**             |
-|----|------|--------------------------------------------|
-|2018|Spring| **Natural Language Processing (Undergraduate)** |
+|2018|Spring| **Collaborative Design** |
