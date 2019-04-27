@@ -10,7 +10,7 @@ main:
     url: /students/
   - title: "Research"
     url: /publications/
-  - title: "Blog"
+  - title: "Architectural Design Projects"
     url: /blog/
   - title: "Workshops"
     url: /workshops/
