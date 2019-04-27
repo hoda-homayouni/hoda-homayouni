@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /workshops/
 title: Workshops
-tags: [workshops, courses]
+tags: [workshops,courses]
 modified: 4-14-2019
 comments: false
 ---
