@@ -9,7 +9,7 @@ comments: false
 ---
 
 
-| Date      |Location| **Subject**                    |
+| Date      |Location| **Subject**                                        |
 |-----------|--------|----------------------------------------------------|
 |Fall 2018  |IUST|    [**LEED V4 NEW Construction, Core & Shell, Schools**](/assets/workshops/LEED.pdf) |
 |-----------|------|-------------------------------------------------------|
