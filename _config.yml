@@ -136,6 +136,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square ai-fw"
+      url: "https://scholar.google.com/citations?user=nU4CjMUAAAAJ&hl=en"
 
 # Site Footer
 footer:
@@ -158,6 +161,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square ai-fw"
+      url: "https://scholar.google.com/citations?user=nU4CjMUAAAAJ&hl=en"
 
 
 # Reading Files
