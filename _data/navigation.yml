@@ -6,16 +6,10 @@ main:
     url: /cv/
   - title: "Courses"
     url: /teaching/
-  - title: "Thesis Projects"
-    url: /students/
-  - title: "Research"
-    url: /publications/
-  - title: "Architectural Design Projects"
-    url: /designwork/
   - title: "Workshops"
     url: /workshops/
-  - title: "Books/Translations"
-    url: /Books/
+  - title: "Seminars"
+    url: /Seminars/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
