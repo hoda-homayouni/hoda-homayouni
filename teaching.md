@@ -11,14 +11,12 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|2019|Spring| **BIM Studio** |
-|----|------|--------------------------------|
-|2019|Spring| **[مبانی نظری طراحی محیطی - نظریه ها و روشها](https://1drv.ms/f/s!Aq52SQ6vtuXshOMDsFYqwgok4uUi-w)** |
+|1398-99|First Semester| **No class** |
 
 
 
 |           | **Past**                       |
 |----|------|--------------------------------|
-|2018|Spring| **BIM**             |
+|1397-98|Second Semester| [**Project Management**](/pm97/)           |
 |----|------|--------------------------------------------|
-|2018|Spring| **Collaborative Design** |
+|1397-98|Second Semester| **Theories and Processes in Sustainable Design** |
