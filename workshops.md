@@ -11,8 +11,8 @@ comments: false
 
 |           | **Subject**                    |
 |----|------|--------------------------------|
-|2018|Fall| **LEED V4 NEW Construction, Core & Shell, Schools** |
+|2018|Fall  | [**LEED V4 NEW Construction, Core & Shell, Schools**](/assets/LEED/LEED.pdf) |
 |----|------|-------------------------------------------------------|
-|2018|Fall| **Introduction to Green Building Assessment Systems** |
+|2018|Fall| [**Introduction to Green Building Assessment Systems**](/assets/LEED/GBAS.pdf) |
 |----|------|-------------------------------------------------------|
 
