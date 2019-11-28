@@ -8,6 +8,8 @@ modified: 4-14-2019
 comments: false
 ---
 
+<iframe width="1024" height="768" src="/assets/cv.pdf" style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);"></iframe>
+
 
 |    |    | **Experience**                                                             |
 |----|----|-------------------------------------------------------------------------------|
