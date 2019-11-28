@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /workshops/
 title: Workshops
-tags: [workshops,seminars]
+tags: [Revit,LEED,Green Building Assessment Systems]
 modified: 4-14-2019
 comments: false
 ---

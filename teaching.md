@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /teaching/
 title: Teaching
-tags: [teaching, courses]
+tags: [Sustainable Design, Project Managment, Design Theories, Integrated Design Process,Building Information Modeling, Leen Delivery Method, Construciton Delivery Methods]
 modified: 4-14-2019
 comments: false
 ---
