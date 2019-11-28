@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /Seminarss/
+permalink: /Seminars/
 title: Seminars
 tags: [Regenerative Design & Development]
 modified: 4-14-2019
