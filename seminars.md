@@ -11,7 +11,7 @@ comments: false
 
 | Date      |Location| **Subject**                                        |
 |-----------|--------|----------------------------------------------------|
-|Fall 2019  |SEPID|    [**Introduction to Regenerative Dedign & Development**](/assets/seminars/RDD.pdf) |
+|Fall 2019  |[SEPID](https://sepidgroup.com/)|    [**Introduction to Regenerative Dedign & Development**](/assets/seminars/RDD.pdf) |
 |-----------|------|-------------------------------------------------------|
 
 
