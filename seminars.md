@@ -11,7 +11,7 @@ comments: false
 
 | Date      |Location| **Subject**     
  |-----------|--------|----------------------------------------------------|
-|Winter 2020  |[SEPID](https://sepidgroup.com/)|    [**Creating Regenerative Projects**](/assets/seminars/PhilosopyOfEthics-Introduction-Utiliterianism.pdf) |                            
+|Winter 2020  |[SEPID](https://sepidgroup.com/)|    [**Philosopy of Ethics- Utiliterianism**](/assets/seminars/PhilosopyOfEthics-Introduction-Utiliterianism.pdf) |                            
 |-----------|--------|----------------------------------------------------|
 |Fall 2019  |[IUST](http://www.iust.ac.ir/en)|    [**Creating Regenerative Projects**](/assets/seminars/Regenerative-Development.pdf) |
 |-----------|------|-------------------------------------------------------|
