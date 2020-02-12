@@ -11,7 +11,7 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|1398-99|First Semester| **No class** |
+|1398-99|Second Semester| [**Theories and Processes in Sustainable Design**](/sd98) |
 
 
 
