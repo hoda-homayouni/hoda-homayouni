@@ -12,6 +12,7 @@ comments: false
 |           | **Current**                    |
 |----|------|--------------------------------|
 |1400-1401|First Semester| [**Building Systems and the Environment**](/BS00)|
+|1400-1401|First Semester| **Introduction to Architecture Communication** |
 |----|------|--------------------------------|
 
 
