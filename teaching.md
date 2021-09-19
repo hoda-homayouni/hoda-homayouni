@@ -11,8 +11,8 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|1400-1401|First Semester| [**Building Systems and the Environment**](/BS00)|
-|1400-1401|First Semester| **Introduction to Architecture Communication** |
+|1400-1401|First Semester| [**Building Systems and the Environment**](https://lms3.sbu.ac.ir/course/view.php?id=8124)|
+|1400-1401|First Semester| [**Introduction to Architecture Communication**](https://courseware.sbu.ac.ir/courses/52671)|
 |----|------|--------------------------------|
 
 
