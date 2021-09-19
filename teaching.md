@@ -12,10 +12,13 @@ comments: false
 |           | **Current**                    |
 |----|------|--------------------------------|
 |1400-1401|First Semester| [**Building Systems and the Environment**](/BS00)|
+|----|------|--------------------------------|
 
 
 
 |           | **Past**                       |
+|----|------|--------------------------------|
+|1399-1400|First Semester| **Energy and Urban Design** |
 |----|------|--------------------------------|
 |1398-99|Second Semester| [**Theories and Processes in Sustainable Design**](/sd98) |
 |----|------|--------------------------------|
